@@ -15,6 +15,7 @@ npm install vue-ui-swipe --save
 
 ```js
 import swipeDirective from 'vue-ui-swipe'
+import 'vue-ui-swipe/lib/ui-swiper.css'
 export default {
   data () {
     return {
@@ -96,3 +97,7 @@ export default {
     - **required** : true
     - **default** : true
     
+### tips
+需要显示的图片列表可以加一个宽度60px的小图片作为懒加载用于显示的展位图
+
+`<img class="ui-swiper-filter" :src="item.smallImg" :data-src="item.img" alt="">`

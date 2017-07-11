@@ -1,6 +1,6 @@
 # vue-ui-swipe
 
-vue2.0的图片轮播指令
+基于vue2.0的图片轮播图指令，移动端用的，稍微兼容pc
 
 文档：<a href="https://cgygd.github.io/vue2-countdown/">https://cgygd.github.io/vue-ui-swipe/</a>  
 demo：<a href="https://cgygd.github.io/vue-ui-swipe/example/index.html" target="_blank">https://cgygd.github.io/vue-ui-swipe/example/index.html</a>

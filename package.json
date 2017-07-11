@@ -1,7 +1,7 @@
 {
   "name": "vue-ui-swipe",
-  "version": "1.0.1",
-  "description": "vue2.0的图片轮播指令",
+  "version": "1.0.2",
+  "description": "基于vue2.0的图片轮播图指令，移动端用的，稍微兼容pc",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

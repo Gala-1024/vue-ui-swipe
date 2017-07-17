@@ -1,6 +1,6 @@
 {
   "name": "vue-ui-swipe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "基于vue2.0的图片轮播图指令，移动端用的，稍微兼容pc",
   "main": "index.js",
   "scripts": {

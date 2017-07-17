@@ -101,3 +101,8 @@ export default {
 需要显示的图片列表可以加一个宽度60px的小图片作为懒加载用于显示的展位图
 
 `<img class="ui-swiper-filter" :src="item.smallImg" :data-src="item.img" alt="">`
+
+ * todolist
+ * 1:左右滑动开始的回调方法
+ * 2:左右滑动结束的回调方法
+ * 3:设置默认图片

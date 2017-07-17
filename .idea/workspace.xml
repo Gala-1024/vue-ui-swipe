@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="661476fe-be6a-4c1f-af9c-5ffccd0e0e8f" name="默认" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vue-ui-swipe.js" afterPath="$PROJECT_DIR$/lib/vue-ui-swipe.js" />
     </list>
     <ignored path="vue2-countdown.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,36 +35,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vue-ui-swipe.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/vue-ui-swipe.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui-swiper.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui-swiper.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-490">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <first_editor relative-caret-position="2482">
+                <caret line="107" column="11" lean-forward="false" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
                 <folding>
-                  <marker date="1499769221000" expanded="true" signature="368:442" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="368:443" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="458:1876" ph="{...}" />
-                  <marker date="1499769221000" expanded="true" signature="470:582" ph="{...}" />
-                  <marker date="1499769221000" expanded="true" signature="483:578" ph="{...}" />
-                  <marker date="1499769221000" expanded="true" signature="518:572" ph="{...}" />
-                  <marker date="1499769221000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
-                  <marker date="1499769221000" expanded="true" signature="654:1874" ph="{...}" />
-                  <marker date="1499769221000" expanded="true" signature="675:1796" ph="[...]" />
-                  <marker date="1499769221000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
-                  <marker date="1499769221000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
-                  <marker date="1499769221000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
-                  <marker date="1499769221000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
-                  <marker date="1499769221000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
-                  <marker date="1499769221000" expanded="true" signature="1818:1865" ph="{...}" />
-                  <marker date="1499769221000" expanded="true" signature="1949:2204" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="1993:2197" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="2021:2188" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="2076:2177" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="2275:2542" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="2331:2535" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="2359:2526" ph="..." />
-                  <marker date="1499769221000" expanded="true" signature="2414:2515" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="368:442" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="368:443" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="458:1876" ph="{...}" />
+                  <marker date="1500263431000" expanded="true" signature="470:582" ph="{...}" />
+                  <marker date="1500263431000" expanded="true" signature="483:578" ph="{...}" />
+                  <marker date="1500263431000" expanded="true" signature="518:572" ph="{...}" />
+                  <marker date="1500263431000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
+                  <marker date="1500263431000" expanded="true" signature="654:1874" ph="{...}" />
+                  <marker date="1500263431000" expanded="true" signature="675:1796" ph="[...]" />
+                  <marker date="1500263431000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
+                  <marker date="1500263431000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
+                  <marker date="1500263431000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
+                  <marker date="1500263431000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
+                  <marker date="1500263431000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
+                  <marker date="1500263431000" expanded="true" signature="1818:1830" ph="{...}" />
+                  <marker date="1500263431000" expanded="true" signature="1818:1865" ph="{...}" />
+                  <marker date="1500263431000" expanded="true" signature="1949:2204" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="1993:2197" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="2021:2188" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="2076:2177" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="2275:2542" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="2331:2535" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="2359:2526" ph="..." />
+                  <marker date="1500263431000" expanded="true" signature="2414:2515" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -71,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="57" lean-forward="false" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -101,10 +123,10 @@
         <option value="$PROJECT_DIR$/example/lib/vue2-countdown.js" />
         <option value="$PROJECT_DIR$/lib/vue2-countdown.vue" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/lib/vue-ui-swipe.js" />
         <option value="$PROJECT_DIR$/example/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/vue-ui-swipe.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -129,7 +151,7 @@
     <ConfirmationsSetting value="1" id="添加" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -142,7 +164,52 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-ui-swipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-ui-swipe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-ui-swipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-ui-swipe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-ui-swipe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-ui-swipe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
@@ -234,18 +301,19 @@
       <workItem from="1482043393203" duration="1758000" />
       <workItem from="1483594312528" duration="608000" />
       <workItem from="1484808892179" duration="5653000" />
-      <workItem from="1499760216356" duration="5902000" />
+      <workItem from="1499760216356" duration="6001000" />
+      <workItem from="1500263385205" duration="49000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16989000" />
+    <option name="totallyTimeSpent" value="17137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24878837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24878837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -287,19 +355,64 @@
     <entry file="file://$PROJECT_DIR$/example/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <folding>
+              <marker date="1500263431000" expanded="true" signature="368:442" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:443" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="458:1876" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="470:582" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="483:578" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="518:572" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
+              <marker date="1500263431000" expanded="true" signature="654:1874" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="675:1796" ph="[...]" />
+              <marker date="1500263431000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1830" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1865" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1949:2204" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="1993:2197" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2021:2188" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2076:2177" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2275:2542" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2331:2535" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2359:2526" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2414:2515" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vue2-countdown.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3145">
-          <caret line="185" column="16" lean-forward="false" selection-start-line="185" selection-start-column="16" selection-end-line="187" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vue2-countdown.vue" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -314,29 +427,30 @@
           <first_editor relative-caret-position="85">
             <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
             <folding>
-              <marker date="1499769221000" expanded="true" signature="368:442" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="368:443" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="458:1876" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="470:582" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="483:578" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="518:572" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
-              <marker date="1499769221000" expanded="true" signature="654:1874" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="675:1796" ph="[...]" />
-              <marker date="1499769221000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1818:1865" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="1949:2204" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="1993:2197" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2021:2188" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2076:2177" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2275:2542" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2331:2535" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2359:2526" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2414:2515" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:442" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:443" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="458:1876" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="470:582" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="483:578" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="518:572" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
+              <marker date="1500263431000" expanded="true" signature="654:1874" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="675:1796" ph="[...]" />
+              <marker date="1500263431000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1830" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1865" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1949:2204" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="1993:2197" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2021:2188" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2076:2177" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2275:2542" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2331:2535" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2359:2526" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2414:2515" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
@@ -351,43 +465,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vue2-countdown.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vue2-countdown.vue" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="120">
             <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
             <folding>
-              <marker date="1499769221000" expanded="true" signature="368:442" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="368:443" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="458:1876" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="470:582" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="483:578" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="518:572" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
-              <marker date="1499769221000" expanded="true" signature="654:1874" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="675:1796" ph="[...]" />
-              <marker date="1499769221000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1818:1865" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="1949:2204" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="1993:2197" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2021:2188" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2076:2177" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2275:2542" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2331:2535" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2359:2526" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2414:2515" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:442" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:443" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="458:1876" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="470:582" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="483:578" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="518:572" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
+              <marker date="1500263431000" expanded="true" signature="654:1874" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="675:1796" ph="[...]" />
+              <marker date="1500263431000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1830" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1865" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1949:2204" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="1993:2197" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2021:2188" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2076:2177" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2275:2542" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2331:2535" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2359:2526" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2414:2515" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
@@ -408,29 +516,30 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1499769221000" expanded="true" signature="368:442" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="368:443" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="458:1876" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="470:582" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="483:578" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="518:572" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
-              <marker date="1499769221000" expanded="true" signature="654:1874" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="675:1796" ph="[...]" />
-              <marker date="1499769221000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1818:1865" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="1949:2204" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="1993:2197" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2021:2188" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2076:2177" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2275:2542" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2331:2535" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2359:2526" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2414:2515" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:442" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:443" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="458:1876" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="470:582" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="483:578" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="518:572" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
+              <marker date="1500263431000" expanded="true" signature="654:1874" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="675:1796" ph="[...]" />
+              <marker date="1500263431000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1830" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1865" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1949:2204" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="1993:2197" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2021:2188" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2076:2177" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2275:2542" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2331:2535" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2359:2526" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2414:2515" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
@@ -445,42 +554,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/vue2-countdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/vue2-countdown.js" />
     <entry file="file://$PROJECT_DIR$/example/script.js" />
-    <entry file="file://$PROJECT_DIR$/example/lib/vue2-countdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="76" column="32" lean-forward="false" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vue2-countdown.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3162">
-          <caret line="185" column="16" lean-forward="false" selection-start-line="185" selection-start-column="16" selection-end-line="187" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vue-ui-swipe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/vue2-countdown.js" />
+    <entry file="file://$PROJECT_DIR$/lib/vue2-countdown.vue" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,46 +573,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            <folding>
-              <marker date="1499769221000" expanded="true" signature="368:442" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="368:443" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="458:1876" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="470:582" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="483:578" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="518:572" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
-              <marker date="1499769221000" expanded="true" signature="654:1874" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="675:1796" ph="[...]" />
-              <marker date="1499769221000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
-              <marker date="1499769221000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
-              <marker date="1499769221000" expanded="true" signature="1818:1865" ph="{...}" />
-              <marker date="1499769221000" expanded="true" signature="1949:2204" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="1993:2197" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2021:2188" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2076:2177" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2275:2542" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2331:2535" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2359:2526" ph="..." />
-              <marker date="1499769221000" expanded="true" signature="2414:2515" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/lib/ui-swiper.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-490">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vue-ui-swipe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" column="57" lean-forward="false" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2482">
+            <caret line="107" column="11" lean-forward="false" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+            <folding>
+              <marker date="1500263431000" expanded="true" signature="368:442" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="368:443" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="458:1876" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="470:582" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="483:578" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="518:572" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="598:629" ph="{&quot;swipe&quot;: swipeDirective...}" />
+              <marker date="1500263431000" expanded="true" signature="654:1874" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="675:1796" ph="[...]" />
+              <marker date="1500263431000" expanded="true" signature="683:898" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/b4ece1c7748bf985bc01ae44acd1cd6b.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="906:1121" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/3e75d8ffc3c28393f61eea25ed986888.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1129:1344" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/9156b0f365ac42c3236be7915b8a6428.png'...}" />
+              <marker date="1500263431000" expanded="true" signature="1352:1567" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/1f337fd118f9f27ec869a2b3581fe2ae.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1575:1790" ph="{&quot;img&quot;: 'http://opkvnn2sq.bkt.clouddn.com//test/ed25b2550ba66eda2059d5e939ae8a2c.jpg'...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1830" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1818:1865" ph="{...}" />
+              <marker date="1500263431000" expanded="true" signature="1949:2204" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="1993:2197" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2021:2188" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2076:2177" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2275:2542" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2331:2535" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2359:2526" ph="..." />
+              <marker date="1500263431000" expanded="true" signature="2414:2515" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
